@@ -9,11 +9,11 @@
 		<relativePath/> 
 	</parent>
 	<groupId>in.project9</groupId>
-	<artifactId>PROJECT9_REST-DB-APP</artifactId>
+	<artifactId>Project9_Java_WebApp</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PROJECT9_REST-DB-APP</name>
-	<description>Project9 for Spring Boot</description>
+	<name>Project9_Java_WebApp</name>
+	<description>Project9 for Spring Boot App</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
