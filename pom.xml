@@ -11,7 +11,7 @@
 	<groupId>in.project9</groupId>
 	<artifactId>Project9_Java_WebApp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>3</version>
 	<name>Project9_Java_WebApp</name>
 	<description>Project9 for Spring Boot App</description>
 	<properties>
